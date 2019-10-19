@@ -65,5 +65,5 @@
 - Github: [noraprogramadoraoficial](https://github.com/noraprogramadoraoficial)
 
 #### Carlos Padilla
-- Bio: Estudiante de Ingeniería en Informática, amante de los cursos y talleres de las nuevas tecnologías.
+- Bio: Estudiante de Ingeniería en Informática, amante de los cursos y talleres de las nuevas tecnologías...
 - Github: [Sprunker](https://github.com/Sprunker)
